@@ -87,7 +87,7 @@
   </tr>
   
   <tr>
-    <td rowspan="20">인구 감소지역 기-종점 시각화 (그림 4)</td>
+    <td rowspan="20">기-종점별 인구변화 및 평균거리 시각화 (그림 6)</td>
     <td rowspan="4">급여소득자(대기업)</td>
     <td><a href="https://ycanns.github.io/Graphs/JOB_BigCom_Origin.html"> 기점 인구변화 >>> </a></td>
     <tr><td><a href="https://ycanns.github.io/Graphs/JOB_BigCom_Destin.html"> 종점 인구변화 >>> </a></td></tr>
