@@ -1,8 +1,8 @@
 <!-- KRIHS Magazine Information -->
 <br />
 <div align="center">
-  <a href="https://github.com/ycanns/Graphs">
-    <img src="docs/KRIHS_icon/ci_14.jpg" alt="ci_14" width="755" height="189">
+  <a href="https://github.com/ycanns/Graphs/docs/2023/January/">
+    <img src="ci_14.jpg" alt="ci_14" width="755" height="189">
   </a>
   
 <h3 align="center">KRIHS Magazine</h3>
