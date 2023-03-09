@@ -32,7 +32,7 @@
   </tr>
 
   <tr>
-    <td rowspan="11">전국 시군구별·연도별 국내 인구이동 수</td>
+    <td rowspan="14">연도별 전국 학원교습소 등록수</td>
       <td><a href="https://ycanns.github.io/Graphs/ACADMA_DATA.html"> 전체연도집계 (1956 ~ 2023) </a></td>
       <tr><td><a href="https://ycanns.github.io/Graphs/ACADMA_DATA_11.html"> 2011년 </a></td></tr>
       <tr><td><a href="https://ycanns.github.io/Graphs/ACADMA_DATA_12.html"> 2012년 </a></td></tr>
