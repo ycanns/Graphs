@@ -5,7 +5,7 @@
     <img src="KRIHS_icon/KRIHS_Magazine_202301.png" alt="ci_14" width="300" height="410">
   </a>
   
-<h3 align="center">국토 3월호</h3>
+<h3 align="center">국토 4월호</h3>
 
   <p align="center">
     국토의 사교육 관심 읽기: 교육정보개방포털의 학원교습소정보 데이터를 중심으로.
