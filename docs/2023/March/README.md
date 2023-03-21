@@ -19,7 +19,7 @@
 ![Build Status](https://img.shields.io/badge/leaflet-leaflet?color=green&logo=leaflet)
 ![Build Status](https://img.shields.io/badge/Jupyter-Jupyter?color=white&logo=Jupyter)
 
- <br> <a href="https://library.krihs.re.kr/dl_image2/IMG/07/000000034906/SERVICE/000000034906_01.PDF"><strong>빅데이터로 국토읽기 2023년 3월호 보기 »</strong></a>
+ <br> <a href="https://library.krihs.re.kr/dl_image2/IMG/08/000000035312/SERVICE/000000035312_01.PDF"><strong>빅데이터로 국토읽기 2023년 3월호 보기 »</strong></a>
     <br />
 
 <br> 
