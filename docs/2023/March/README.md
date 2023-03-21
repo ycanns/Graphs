@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ycanns/Graphs">
-    <img src="KRIHS_icon/KRIHS_Magazine_202301.png" alt="ci_14" width="300" height="410">
+    <img src="KRIHS_icon/KRIHS_Magazine_202303.png" alt="ci_14" width="300" height="410">
   </a>
   
 <h3 align="center">국토 3월호</h3>
