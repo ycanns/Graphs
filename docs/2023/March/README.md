@@ -10,7 +10,7 @@
   <p align="center">
     통계청 전출입데이터로 국토 인구이동 읽기: 2012년부터 2022년의 인구이동 분석을 기준으로.
     <br /><br /></p><p align="left">
-    본 호에서는 통계청에서 제공하는 「국내인구이동통계」를 바탕으로 지역 간 이동을 추정하여 하여 도시와 국토가 지난 10여년 간 어떻게 변화해왔는지 공간적으로 확인해보았다.<br /></p><p align="center">
+    본 호에서는 통계청에서 제공하는 「국내인구이동통계」를 바탕으로 지역 간 이동을 추정하여, 도시와 국토가 지난 10여년 간 어떻게 변화해왔는지 공간적으로 확인해보았다.<br /></p><p align="center">
     
     
 ![Build Status](https://img.shields.io/badge/python-python?color=9cf&logo=python)
