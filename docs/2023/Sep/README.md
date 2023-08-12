@@ -39,7 +39,19 @@
       <tr><td><a href="https://ycanns.github.io/Graphs/Ave_Survival_Duration_RLST.html"> 부동산 업종 </a></td></tr>
       <tr><td><a href="https://ycanns.github.io/Graphs/Ave_Survival_Duration_SPRT.html"> 스포츠 업종 </a></td></tr>
   </tr>
+  <tr>
+    <td rowspan="5">유형에 따른 주요 업종별(중분류) 소상공인 업소 공간적 분포(2018~2022년 기준)</td>
+      <td><a href="https://ycanns.github.io/Graphs/Ty1A_Ave_Dist_Map_1.html"> 유형-A (음식점: 기타 간이, 구내식당·뷔페, 기타 외국, 닭/오리요리, 기타음식업, 동남아시아, 별식/퓨전요리, 비알코올, 분식, 부페, 서양식 등) </a></td>
+      <tr><td><a href="https://ycanns.github.io/Graphs/Ty1A_Ave_Dist_Map_2.html"> 유형-A (음식점: 주점, 한식, 중식, 일식, 유흥주점, 일식/수산물, 패스트푸드, 제과제빵떡케익, 커피점/카페, 양식, 음식배달서비스 등) </a></td></tr>
+      <tr><td><a href="https://ycanns.github.io/Graphs/Ty1B_Ave_Dist_Map.html"> 유형-A (학문/교육: 학원-창업취업취미, 학원-어학, 학원-보습교습입시, 유아교육, 학원-음악미술무용, 학원-예능취미체육, 학문교육기타, 학원기타, 도서관/독서실, 학원-컴퓨터, 학원-자격/국가고시, 기타교육기관, 연구소, 특수교육기관, 학교 등) </a></td></tr>
+      <tr><td><a href="https://ycanns.github.io/Graphs/Ty2_Ave_Dist_Map.html"> 유형-B (스포츠: 실내운동시설, 운영관리시설, 실외운동시설 등) </a></td></tr>
+      <tr><td><a href="https://ycanns.github.io/Graphs/Ty3_Ave_Dist_Map.html"> 유형-C (관광/여가/오락: 무도/유흥/가무, 요가/단전/마사지, PC/오락/당구/볼링등, 스포츠/운동, 놀이/여가/취미, 경마/경륜/성인오락, 연극/영화/극장, 전시/관람 등) </a></td></tr>
+  </tr>
 </table>
 
   </p>
 </div>
+
+
+
+
