@@ -29,7 +29,7 @@
   </tr>
 
   <tr>
-    <td rowspan="8">전국 소상공인 업종별 평균 지속 영업 기간(개월 수, 2018~2022년 기준)</td>
+    <td rowspan="8">전국 소상공인 주요 업종별 평균 지속 영업 기간(개월 수, 2018~2022년 기준)</td>
       <td><a href="https://ycanns.github.io/Graphs/Ave_Survival_Duration_RSTRNT.html"> 읍식 업종 </a></td>
       <tr><td><a href="https://ycanns.github.io/Graphs/Ave_Survival_Duration_RTL.html"> 소매 업종 </a></td></tr>
       <tr><td><a href="https://ycanns.github.io/Graphs/Ave_Survival_Duration_EDCTN.html"> 학문/교육 업종 </a></td></tr>
