@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ycanns/Graphs">
-    <img src="KRIHS_icon/000000035362_01.png" alt="ci_14" width="300" height="410">
+    <img src="KRIHS_icon/000000035892_01.png" alt="ci_14" width="300" height="410">
   </a>
   
 <h3 align="center">국토 9월호</h3>
@@ -16,7 +16,7 @@
 ![Build Status](https://img.shields.io/badge/R-R?color=lightblue&logo=R)
 ![Build Status](https://img.shields.io/badge/leaflet-leaflet?color=green&logo=leaflet)
 
- <br> <a href="https://library.krihs.re.kr/dl_image2/IMG/08/000000035377/SERVICE/000000035377_01.PDF"><strong>빅데이터로 국토읽기 2023년 9월호 보기 »</strong></a>
+ <br> <a href="https://library.krihs.re.kr/dl_image2/IMG/08/000000035804/SERVICE/000000035804_01.PDF"><strong>빅데이터로 국토읽기 2023년 9월호 보기 »</strong></a>
     <br />
 
 <br> 
