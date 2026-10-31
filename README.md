@@ -23,8 +23,8 @@ Interactive visualizations accompanying the monthly KRIHS Magazine, created prim
 |---|---|---|
 | 인구이동 통계 | 전국 시군구별 인구이동 (2022) | [열기](https://ycanns.github.io/Graphs/POP_move_Ipu_2022.html) |
 | 인구이동 흐름 | 주요 전입지와 전출지의 이동 (2022) | [열기](https://ycanns.github.io/Graphs/POP_OD_2022_sub.html) |
-| 인구이동 흐름 | Sankey Diagram (2022) | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2022.html) |
-| 네트워크 | 연도별 네트워크 선택 | [열기](https://ycanns.github.io/Graphs/forceNetwork_index.html) |
+| 인구이동 흐름 | Sankey Diagram (2022) | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2022.html) |
+| 네트워크 | 연도별 네트워크 선택 | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_index.html) |
 | 소득유형별 이동 | 대기업 급여소득자 기종점 변화 | [열기](https://ycanns.github.io/Graphs/BigCom_OD_1821_new.html) |
 | 교육 | 학원교습소 등록 현황 — 전체연도 집계 | [열기](https://ycanns.github.io/Graphs/ACADMA_DATA.html) |
 | 상권 | 음식 업종 평균 지속 영업 기간 | [열기](https://ycanns.github.io/Graphs/Ave_Survival_Duration_RSTRNT.html) |
@@ -40,6 +40,8 @@ Interactive visualizations accompanying the monthly KRIHS Magazine, created prim
 | 2023년 4월 | 국토의 사교육 관심 읽기 | [보기](docs/2023/April/README.md) |
 | 2023년 9월 | 소상공인 데이터로 국토변화 읽기 | [보기](docs/2023/Sep/README.md) |
 | 2023년 10월 | 민원 빅데이터와 전출입데이터로 국토이동 관심 읽기 | [보기](docs/2023/Oct/README.md) |
+
+일부 시각화는 이 저장소의 GitHub Pages 주소가 열리지 않아, 파일 내용이 동일하고 정상 응답이 확인된 **KRIHS_Magazines** 주소로 연결했습니다. 해당 링크에는 연결 대상을 표시했습니다.
 
 ## 전체 시각화 목록
 
@@ -102,27 +104,27 @@ Interactive visualizations accompanying the monthly KRIHS Magazine, created prim
 | `POP_move_Ipu_2020.html` | [열기](https://ycanns.github.io/Graphs/POP_move_Ipu_2020.html) | 4.12 |
 | `POP_move_Ipu_2021.html` | [열기](https://ycanns.github.io/Graphs/POP_move_Ipu_2021.html) | 4.11 |
 | `POP_move_Ipu_2022.html` | [열기](https://ycanns.github.io/Graphs/POP_move_Ipu_2022.html) | 4.11 |
-| `forceNetwork_2013.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2013.html) | 0.27 |
-| `forceNetwork_2014.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2014.html) | 0.27 |
-| `forceNetwork_2015.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2015.html) | 0.27 |
-| `forceNetwork_2016.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2016.html) | 0.27 |
-| `forceNetwork_2017.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2017.html) | 0.27 |
-| `forceNetwork_2018.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2018.html) | 0.27 |
-| `forceNetwork_2019.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2019.html) | 0.27 |
-| `forceNetwork_2020.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2020.html) | 0.27 |
-| `forceNetwork_2021.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2021.html) | 0.27 |
-| `forceNetwork_2022.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_2022.html) | 0.27 |
-| `forceNetwork_index.html` | [열기](https://ycanns.github.io/Graphs/forceNetwork_index.html) | 0.00 |
-| `sankey_Pop_2013.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2013.html) | 0.27 |
-| `sankey_Pop_2014.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2014.html) | 0.27 |
-| `sankey_Pop_2015.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2015.html) | 0.27 |
-| `sankey_Pop_2016.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2016.html) | 0.27 |
-| `sankey_Pop_2017.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2017.html) | 0.27 |
-| `sankey_Pop_2018.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2018.html) | 0.27 |
-| `sankey_Pop_2019.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2019.html) | 0.27 |
-| `sankey_Pop_2020.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2020.html) | 0.27 |
-| `sankey_Pop_2021.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2021.html) | 0.27 |
-| `sankey_Pop_2022.html` | [열기](https://ycanns.github.io/Graphs/sankey_Pop_2022.html) | 0.27 |
+| `forceNetwork_2013.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2013.html) | 0.27 |
+| `forceNetwork_2014.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2014.html) | 0.27 |
+| `forceNetwork_2015.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2015.html) | 0.27 |
+| `forceNetwork_2016.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2016.html) | 0.27 |
+| `forceNetwork_2017.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2017.html) | 0.27 |
+| `forceNetwork_2018.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2018.html) | 0.27 |
+| `forceNetwork_2019.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2019.html) | 0.27 |
+| `forceNetwork_2020.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2020.html) | 0.27 |
+| `forceNetwork_2021.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2021.html) | 0.27 |
+| `forceNetwork_2022.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_2022.html) | 0.27 |
+| `forceNetwork_index.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/forceNetwork_index.html) | 0.00 |
+| `sankey_Pop_2013.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2013.html) | 0.27 |
+| `sankey_Pop_2014.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2014.html) | 0.27 |
+| `sankey_Pop_2015.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2015.html) | 0.27 |
+| `sankey_Pop_2016.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2016.html) | 0.27 |
+| `sankey_Pop_2017.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2017.html) | 0.27 |
+| `sankey_Pop_2018.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2018.html) | 0.27 |
+| `sankey_Pop_2019.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2019.html) | 0.27 |
+| `sankey_Pop_2020.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2020.html) | 0.27 |
+| `sankey_Pop_2021.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2021.html) | 0.27 |
+| `sankey_Pop_2022.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/sankey_Pop_2022.html) | 0.27 |
 
 </details>
 
@@ -767,8 +769,8 @@ Interactive visualizations accompanying the monthly KRIHS Magazine, created prim
 | `NRC_Metaverse.html` | [열기](https://ycanns.github.io/Graphs/NRC_Metaverse.html) | 3.68 |
 | `NRC_Metaverse_Emotion.html` | [열기](https://ycanns.github.io/Graphs/NRC_Metaverse_Emotion.html) | 3.71 |
 | `NRC_Metaverse_Emotion_pie.html` | [열기](https://ycanns.github.io/Graphs/NRC_Metaverse_Emotion_pie.html) | 3.66 |
-| `Public_Asking.html` | [열기](https://ycanns.github.io/Graphs/Public_Asking.html) | 3.88 |
-| `Public_Asking_by_ratio.html` | [열기](https://ycanns.github.io/Graphs/Public_Asking_by_ratio.html) | 3.89 |
+| `Public_Asking.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/Public_Asking.html) | 3.88 |
+| `Public_Asking_by_ratio.html` | [열기 · KRIHS_Magazines](https://ycanns.github.io/KRIHS_Magazines/Public_Asking_by_ratio.html) | 3.89 |
 | `metaverse_news.html` | [열기](https://ycanns.github.io/Graphs/metaverse_news.html) | 0.00 |
 
 </details>
